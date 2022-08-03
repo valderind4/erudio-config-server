@@ -9,5 +9,5 @@ management:
         - "*"
 greeting-service:
   greeting: "Ciao"
-  default-value: "Mondooooooo 11111"
+  default-value: "Mondooooooo 999999"
 
